@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.fudb</groupId>
-  <artifactId>scratch2_16</artifactId>
+  <artifactId>scratch</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210515210550</lastUpdated>
+    <lastUpdated>20210515210713</lastUpdated>
   </versioning>
 </metadata>
