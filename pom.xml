@@ -55,6 +55,9 @@
                         <source>${jdk.version}</source>
                         <release>${jdk.version}</release>
                         <target>${jdk.version}</target>
+                        <compilerArgs>
+                            <arg>--add-modules=jdk.incubator.vector</arg>
+                        </compilerArgs>
                     </configuration>
                 </plugin>
                 <plugin>
