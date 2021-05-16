@@ -5,7 +5,7 @@
     <groupId>com.fudb</groupId>
     <artifactId>scratch2_16</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <modules>
         <module>com.fudb.scratch</module>
@@ -23,7 +23,7 @@
         <url>${project.scm.url}</url>
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
-        <tag>scratch2_16-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
