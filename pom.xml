@@ -9,6 +9,7 @@
 
     <modules>
         <module>com.fudb.scratch</module>
+        <module>com.fudb.varhandle</module>
     </modules>
 
     <properties>

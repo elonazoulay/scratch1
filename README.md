@@ -18,3 +18,16 @@ Use jlink to build a standalone application
 <pre>
 --add-modules=jdk.incubator.vector
 </pre>
+
+* BUILD
+<pre>mvn install</pre>
+
+* DEPLOY
+<pre>mvn deploy</pre>
+
+* RELEASE
+<pre>
+mvn release:clean release:prepare
+mvn release:perform
+</pre>
+
